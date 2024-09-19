@@ -17,7 +17,7 @@ A continuación, te comparto mis habilidades y tecnologías en las que estoy tra
 #### Backend
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 ### Lenguajes de Programación (POO)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
