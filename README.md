@@ -36,5 +36,5 @@ A continuación, te comparto mis habilidades y tecnologías en las que estoy tra
 
 ## 📫 Contacto
 
-- **Gmail**: [tuemail@gmail.com](mailto:gonzalezthiago108@gmail.com)
-- **Instagram**: [@tuusuario](https://instagram.com/thirom.chr01)
+- **Gmail**: [gonzalezthiago108@gmail.com](mailto:gonzalezthiago108@gmail.com)
+- **Instagram**: [@thirom.chr01](https://instagram.com/thirom.chr01)
