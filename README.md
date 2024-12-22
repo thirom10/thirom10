@@ -9,6 +9,7 @@ A continuación, te comparto mis habilidades y tecnologías en las que estoy tra
 ### Desarrollo Web
 
 #### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
@@ -26,6 +27,7 @@ A continuación, te comparto mis habilidades y tecnologías en las que estoy tra
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
 
 ### Frameworks y Plataformas
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
@@ -36,7 +38,6 @@ A continuación, te comparto mis habilidades y tecnologías en las que estoy tra
 
 ## 🌱 Aprendiendo
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
