@@ -20,7 +20,7 @@ A continuación, te comparto mis habilidades y tecnologías en las que estoy tra
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-### Lenguajes de Programación (POO)
+### Lenguajes de Programación
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
@@ -35,14 +35,14 @@ A continuación, te comparto mis habilidades y tecnologías en las que estoy tra
 ### Bases de Datos
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![NoSQL](https://img.shields.io/badge/-NoSQL-E34F26?style=flat-square&logo=nosql&logoColor=white)
 
-## 🌱 Aprendiendo
+## Aprendiendo
 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
-![NoSQL](https://img.shields.io/badge/-NoSQL-E34F26?style=flat-square&logo=nosql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📫 Contacto
