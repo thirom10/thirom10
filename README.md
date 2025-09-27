@@ -49,9 +49,9 @@ A continuación, te comparto mis habilidades y tecnologías en las que estoy tra
 
 ## 📊 Mis Estadísticas en GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thirom10&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thirom10&layout=compact&theme=tokyonight)
 
 ---
 
